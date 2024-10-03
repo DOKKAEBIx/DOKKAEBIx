@@ -9,8 +9,8 @@
         <li>OS: Arch Linux</li>
         <li>GPU: NVIDIA RTX 3060</li>
         <li>CPU: AMD Ryzen 7 5800X</li>
-        <li>RAM: 16 GB</li>
-        <li>Storage: 1 TB SSD</li>
+        <li>RAM: 32 GB</li>
+        <li>Storage: 10 TB SSD</li>
       </ul>
     </td>
   </tr>
