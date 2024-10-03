@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎀 About Me:
 I am a cybersec researcher and make stupid things.<br>Some things I've made are RATS and other projects.<br>Currently learning how to exploit vulns.
 
 <p align="center">
