@@ -4,7 +4,7 @@
       <img src="https://lh4.googleusercontent.com/proxy/M3Wu9dQsgvdBXytqnJujm7VaFnzzzsXscEoaeRZ9VtNAXImcyDu1kIVOOfQBWpwp4iNrbPQOR5Am4V378H_Vr89s7K1g8z4aIy59nWa81qB5N7g" alt="Master Header" width="300">
     </td>
     <td>
-      <h2>My OS and Specs</h2>
+      <h2>𝙢𝙮 𝙨𝙥𝙚𝙘𝙨/𝙤𝙨</h2>
       <ul>
         <li>OS: Arch Linux</li>
         <li>GPU: NVIDIA RTX 3060</li>
