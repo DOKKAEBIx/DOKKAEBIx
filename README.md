@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5MTY3MDcsIm5iZiI6MTcyNzkxNjQwNywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDAwNDY0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY3YmMwZTNiOThmNzQ1OTI0ZjEwYjE3YzJhYTg4OGNiNDg1MDI3ZDA0NjYzMTdkMzBlODYzM2I1MWYwNTc4M2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SworL2X9oIUsC1PuHpLqJ0fiPB7jA6T762EBb83fu_8" alt="Cool GIF"/>
-</p>
-
 # 🎀 About Me:
 I am a cybersec researcher and make stupid things.<br>Some things I've made are RATS and other projects.<br>Currently learning how to exploit vulns.
+
+<img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5MzE0NDIsIm5iZiI6MTcyNzkzMTE0MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA0NTIyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViNGRiZmZjYzg3OWI3YTY5NWZlNzc0NDVjNDVmOWM0ZTQ4NDk5MWY5ZDhiYjlmN2JiNmQ5MWEyMDg4MTY5OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PEenUdf1i1QdiZ_4mdgxHU2_fzfGa2DrYEfmaGE_mfk" width="400px"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dokkaebl) 
@@ -27,5 +25,3 @@ I am a cybersec researcher and make stupid things.<br>Some things I've made are 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DOKKAEBIx&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
