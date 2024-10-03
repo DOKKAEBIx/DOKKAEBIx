@@ -1,7 +1,8 @@
 # 🎀 About Me:
 I am a cybersec researcher and make stupid things.<br>Some things I've made are RATS and other projects.<br>Currently learning how to exploit vulns.
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjc5MzE0NDIsIm5iZiI6MTcyNzkzMTE0MiwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDAzVDA0NTIyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWViNGRiZmZjYzg3OWI3YTY5NWZlNzc0NDVjNDVmOWM0ZTQ4NDk5MWY5ZDhiYjlmN2JiNmQ5MWEyMDg4MTY5OTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.PEenUdf1i1QdiZ_4mdgxHU2_fzfGa2DrYEfmaGE_mfk" width="400px"/>
+## 🎵 Music
+[![Play on Spotify](https://img.shields.io/badge/Play%20on%20Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN?si=5ecc50f1f2e942b4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dokkaebl) 
