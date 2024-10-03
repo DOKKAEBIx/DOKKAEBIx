@@ -1,4 +1,20 @@
-![Master Header](https://lh4.googleusercontent.com/proxy/M3Wu9dQsgvdBXytqnJujm7VaFnzzzsXscEoaeRZ9VtNAXImcyDu1kIVOOfQBWpwp4iNrbPQOR5Am4V378H_Vr89s7K1g8z4aIy59nWa81qB5N7g)
+<table>
+  <tr>
+    <td>
+      <img src="https://lh4.googleusercontent.com/proxy/M3Wu9dQsgvdBXytqnJujm7VaFnzzzsXscEoaeRZ9VtNAXImcyDu1kIVOOfQBWpwp4iNrbPQOR5Am4V378H_Vr89s7K1g8z4aIy59nWa81qB5N7g" alt="Master Header" width="300">
+    </td>
+    <td>
+      <h2>My OS and Specs</h2>
+      <ul>
+        <li>OS: Arch Linux</li>
+        <li>GPU: NVIDIA RTX 3060</li>
+        <li>CPU: AMD Ryzen 7 5800X</li>
+        <li>RAM: 16 GB</li>
+        <li>Storage: 1 TB SSD</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 # 🎀 About Me:
 I am a cybersec researcher and make stupid things.<br>Some things I've made are RATS and other projects.<br>Currently learning how to exploit vulns.
