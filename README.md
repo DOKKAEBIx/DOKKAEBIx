@@ -1,8 +1,7 @@
+![Master Header](https://lh4.googleusercontent.com/proxy/M3Wu9dQsgvdBXytqnJujm7VaFnzzzsXscEoaeRZ9VtNAXImcyDu1kIVOOfQBWpwp4iNrbPQOR5Am4V378H_Vr89s7K1g8z4aIy59nWa81qB5N7g)
+
 # 🎀 About Me:
 I am a cybersec researcher and make stupid things.<br>Some things I've made are RATS and other projects.<br>Currently learning how to exploit vulns.
-
-## 🎵 Music
-[![Play on Spotify](https://img.shields.io/badge/Play%20on%20Spotify-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN?si=5ecc50f1f2e942b4)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dokkaebl) 
