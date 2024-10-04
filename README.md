@@ -14,7 +14,52 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td>
+      <!-- ASCII Art for Arch Linux -->
+      <pre>
+                 -`                 
+                .o+`                
+               `ooo/                
+              `+oooo:               
+             `+oooooo:              
+             -+oooooo+:             
+           `/:-:++oooo+:            
+          `/++++/+++++++:           
+         `/++++++++++++++:          
+        `/+++ooooooooooooo/`        
+       ./ooosssso++osssssso+`       
+      .oossssso-````/ossssss+`      
+     -osssssso.      :ssssssso.     
+    :osssssss/        osssso+++.    
+   /ossssssss/        +ssssooo/-    
+ `/ossssso+/:-        -:/+osssso+-  
+`+sso+:-`                 `.-/+oso: 
+`++:.                           `-/ 
+.`                                  
+      </pre>
+    </td>
+    <td>
+      <!-- System Information -->
+      <pre>
+root@PC
+-------------
+OS: Arch Linux x86_64
+Host: VirtualBox 1.2
+Kernel: 5.9.12-arch1-1
+Uptime: 30 secs
+Packages: 163 (pacman)
+Shell: bash 5.0.18
+Resolution: preferred
+Terminal: /dev/tty1
+CPU: Intel Pentium 3805U (1) @ 1.895GHz
+GPU: 00:02.0 VMware SVGA II Adapter
+Memory: 64MiB / 977MiB
+      </pre>
+    </td>
+  </tr>
 </table>
+
 
 # 🎀 About Me:
 I am a cybersec researcher and make stupid things.<br>Some things I've made are RATS and other projects.<br>Currently learning how to exploit vulns.
