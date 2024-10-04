@@ -42,7 +42,7 @@
     <td>
       <!-- System Information -->
       <pre>
-root@Dokkaebi
+root@dokkaebi
 -------------
 OS: Arch Linux x86_64
 Host: VirtualBox 17.2
