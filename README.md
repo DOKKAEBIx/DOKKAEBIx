@@ -52,7 +52,7 @@ Packages: 163 (pacman)
 Shell: bash 5.0.18
 Resolution: preferred
 Terminal: /dev/tty1
-CPU: Intel Pentium 3805U (1) @ 1.895GHz
+CPU: AMD Ryzen 7 5800X
 GPU: 00:02.0 VMware SVGA II Adapter
 Memory: 64MiB / 977MiB
       </pre>
