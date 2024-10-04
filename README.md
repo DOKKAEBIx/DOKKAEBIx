@@ -45,7 +45,7 @@
 root@PC
 -------------
 OS: Arch Linux x86_64
-Host: VirtualBox 1.2
+Host: VirtualBox 17.2
 Kernel: 5.9.12-arch1-1
 Uptime: 30 secs
 Packages: 163 (pacman)
